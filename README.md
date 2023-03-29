@@ -1,1 +1,2 @@
 # detection-of-fraud-transaction
+This Python-based credit card fraud detection system determines the legitimacy of credit card transactions. By employing the Decision Tree Algorithm, the model classifies transactions as either fraudulent or non-fraudulent. In this dataset, a value of 0 denotes a non-fraudulent transaction, while a value of 1 indicates a fraudulent transaction.
